@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+  <rect width="720" height="420" fill="#fbfbf9"/>
+  <text x="20.0" y="30.0" font-size="16" fill="#24292f" text-anchor="start" font-weight="600">입력 모양에 따른 걸린 시간 — 로그 축</text>
+  <text x="20.0" y="50.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">같은 자료. 선형 축에서 사라졌던 작은 값이 여기서는 읽힌다</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="362.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">0.001</text>
+  <line x1="78.0" y1="301.2" x2="696.0" y2="301.2" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="305.2" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">0.01</text>
+  <line x1="78.0" y1="244.4" x2="696.0" y2="244.4" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="248.4" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">0.1</text>
+  <line x1="78.0" y1="187.6" x2="696.0" y2="187.6" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="191.6" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">1</text>
+  <line x1="78.0" y1="130.8" x2="696.0" y2="130.8" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="134.8" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">10</text>
+  <line x1="78.0" y1="74.0" x2="696.0" y2="74.0" stroke="#dfe1e4" stroke-width="1" stroke-dasharray="none"/>
+  <text x="68.0" y="78.0" font-size="10.5" fill="#6e7781" text-anchor="end" font-weight="400">100</text>
+  <line x1="78.0" y1="358.0" x2="696.0" y2="358.0" stroke="#6e7781" stroke-width="1" stroke-dasharray="none"/>
+  <text x="20.0" y="60.0" font-size="11.5" fill="#6e7781" text-anchor="start" font-weight="400">시간 (ms)</text>
+  <rect x="102.6" y="111.6" width="32.1" height="246.4" fill="#0072B2"/>
+  <text x="118.6" y="106.6" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">22</text>
+  <rect x="137.7" y="205.4" width="32.1" height="152.6" fill="#E69F00"/>
+  <text x="153.8" y="200.4" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.486</text>
+  <rect x="172.8" y="198.9" width="32.1" height="159.1" fill="#009E73"/>
+  <text x="188.9" y="193.9" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.633</text>
+  <text x="155.2" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">무작위</text>
+  <rect x="257.1" y="313.8" width="32.1" height="44.2" fill="#0072B2"/>
+  <text x="273.1" y="308.8" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.006</text>
+  <rect x="292.2" y="233.3" width="32.1" height="124.7" fill="#E69F00"/>
+  <text x="308.2" y="228.3" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.157</text>
+  <rect x="327.3" y="202.6" width="32.1" height="155.4" fill="#009E73"/>
+  <text x="343.4" y="197.6" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.544</text>
+  <text x="309.8" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">정렬됨</text>
+  <rect x="411.6" y="95.0" width="32.1" height="263.0" fill="#0072B2"/>
+  <text x="427.6" y="90.0" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">43</text>
+  <rect x="446.7" y="230.3" width="32.1" height="127.7" fill="#E69F00"/>
+  <text x="462.8" y="225.3" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.177</text>
+  <rect x="481.8" y="203.0" width="32.1" height="155.0" fill="#009E73"/>
+  <text x="497.9" y="198.0" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.535</text>
+  <text x="464.2" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">역순</text>
+  <rect x="566.1" y="114.6" width="32.1" height="243.4" fill="#0072B2"/>
+  <text x="582.1" y="109.6" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">19</text>
+  <rect x="601.2" y="211.5" width="32.1" height="146.5" fill="#E69F00"/>
+  <text x="617.2" y="206.5" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.379</text>
+  <rect x="636.3" y="204.5" width="32.1" height="153.5" fill="#009E73"/>
+  <text x="652.4" y="199.5" font-size="9.5" fill="#6e7781" text-anchor="middle" font-weight="400">0.504</text>
+  <text x="618.8" y="376.0" font-size="11.5" fill="#24292f" text-anchor="middle" font-weight="400">중복많음</text>
+  <line x1="78.0" y1="390.0" x2="100.0" y2="390.0" stroke="#0072B2" stroke-width="2.4" stroke-dasharray="none"/>
+  <circle cx="89.0" cy="390.0" r="3" fill="#0072B2"/>
+  <text x="106.0" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">insertionSort</text>
+  <line x1="209.8" y1="390.0" x2="231.8" y2="390.0" stroke="#E69F00" stroke-width="2.4" stroke-dasharray="7 4"/>
+  <circle cx="220.8" cy="390.0" r="3" fill="#E69F00"/>
+  <text x="237.8" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">quickSort</text>
+  <line x1="315.2" y1="390.0" x2="337.2" y2="390.0" stroke="#009E73" stroke-width="2.4" stroke-dasharray="2 3"/>
+  <circle cx="326.2" cy="390.0" r="3" fill="#009E73"/>
+  <text x="343.2" y="394.0" font-size="11.5" fill="#24292f" text-anchor="start" font-weight="400">heapSort</text>
+</svg>
